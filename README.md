@@ -3,7 +3,12 @@ This list is used to record My cve.
 ## netgear
 
 - CVE-2020-28373
-- lots of PSV on bugcrow
+- PSV-2020-0201
+- PSV-2020-0204
+- PSV-2020-0274
+- PSV-2020-0272
+- PSV-2020-0259
+- PSV-2020-0277
 
 ## D-Link
 
@@ -19,3 +24,7 @@ This list is used to record My cve.
 - CVE-2020-19663
 - CVE-2020-14993
 - CVE-2020-15415
+
+## some image SDK
+- CVE-2020-19667
+- CVE-2020-19668
