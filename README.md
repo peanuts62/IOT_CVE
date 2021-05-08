@@ -26,6 +26,7 @@ This list is used to record My cve.
 - CVE-2020-15415
 ## Tenda
 - CVE-2021-31755
+- CVE-2021-31757
 ## some image SDK
 - CVE-2020-19667
 - CVE-2020-19668
