@@ -1,5 +1,7 @@
 # A list of My IOT CVE
 This list is used to record My cve.
+## cisco
+- CVE-2021-1473
 ## netgear
 
 - CVE-2020-28373
