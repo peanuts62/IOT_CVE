@@ -28,4 +28,5 @@ module1=wifiBasicCfg&doubleBandUnityEnable=false&wifiTotalEn=true&wifiEn=true&wi
 ```
 ## Time line
 - report cnvd assgin CNVD-2021-30109
+- confirmed by Tenda
 - report CVE wait for answer ...
