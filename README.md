@@ -30,3 +30,5 @@ This list is used to record My cve.
 ## some image SDK
 - CVE-2020-19667
 - CVE-2020-19668
+
+and so many not update
